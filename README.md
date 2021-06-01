@@ -1,24 +1,14 @@
-# vuejs
+# VUEJS HEADFIRST CLASS
 
-## Project setup
-```
-yarn install
-```
+## Documents
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- APP : https://docs.google.com/document/d/1TZeI5TGjTvC9qqITsx04ts9w5wSPH0o-QQM0P3UyW4A/edit?usp=sharing
+- API : https://docs.google.com/document/d/1opYkbg08Zasc8TeTwgUjSh0RV3kKd0r1pwNJwzxQRqE/edit?usp=sharing
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Requirements
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Monthly budget
+- Manage balance, income, expense
+- Group income, expense by category
+- Manage income, expense transactions
+- Statistics for : month, year, overall
